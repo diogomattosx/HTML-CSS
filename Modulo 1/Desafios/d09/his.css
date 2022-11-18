@@ -1,0 +1,31 @@
+
+
+body{
+
+    background-color: rgb(63, 58, 58);
+
+}
+
+.titulo-principal{
+
+    color: white;
+    text-align: center;
+}
+
+.conteudo-principal{
+
+    text-align: center;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+a:hover{
+
+    font-size: 18px;
+}
+

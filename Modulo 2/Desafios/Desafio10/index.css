@@ -1,0 +1,183 @@
+@font-face {
+    font-family:'android';
+    src: url(conteudo/fontes/idroid.otf) format(opentype);
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+
+}
+
+
+
+
+
+header{
+
+    background-image: linear-gradient( #52c987,#1a5c38  );
+
+
+   
+}
+
+.titulo-principal{
+
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    padding: 20px;
+
+}
+
+.paragrafo-principal{
+
+    color: rgba(255, 255, 255, 0.733);
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    
+    
+
+}
+
+li{
+
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-left: 13px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    width: auto;
+  
+
+} 
+
+main{
+
+  
+    border-left: 80px solid #2bb368;
+    border-right: 80px solid #2bb368;
+    padding: 15px;
+
+
+}
+
+.titulo-principal2 {
+
+    font-family:'android', Times, serif;
+    font-size: 18px ;
+    margin-bottom: 10px;
+    text-align: center;
+    color:#1a5c38 ;
+    
+    
+}
+
+.paragrafo-intro {
+
+    text-align: justify;
+    margin-bottom: 20px;
+    text-indent: 2em;
+    text-decoration: none;
+   
+
+
+}
+
+.titulo-principal3{
+
+    font-family:'android', Times, serif; 
+    font-size: 15px;
+    background: linear-gradient(#1a5c38 white);
+    margin-bottom: 10px;
+    color: #1a5c38;
+
+}
+
+.foto-justify {
+
+    display: block;
+    margin:20px auto;
+    width: 100%;
+
+
+}
+
+.foto-justify-android {
+
+    display: block;
+    margin: 20px auto;
+
+}
+
+.video-android{
+
+    display: block;
+    margin:20px auto;
+
+
+}
+
+h3{
+
+    background-color: #2bb368;
+    border: 9px  solid  #2bb368;
+    border-radius: 10px 10px 0px 0px;
+    color:white;
+    padding: 5px;
+    
+
+
+}
+
+.listas {
+
+    background-color: #52c987;
+    padding: 10px;
+    
+
+}
+
+
+.ultimo-paragrafo {
+
+
+    margin-top: 10px;
+
+
+
+}
+
+footer {
+
+  
+    text-align: center;
+    border: 8px solid  #1a5c38;
+    color: white;
+   background-color:#1a5c38 ;
+
+   
+}
+
+footer p {
+
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+

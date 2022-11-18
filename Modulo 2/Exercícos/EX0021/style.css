@@ -1,0 +1,37 @@
+
+body{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+div{
+
+    display: inline-block;
+    margin-right: 40px;
+    background-color: bisque;
+  
+
+
+}
+
+div > p{
+
+    display: none;
+}
+
+
+.titulo:hover{
+
+    color: darkgrey;
+
+}
+
+div:hover > p{
+
+    display: block;
+    
+    
+    
+}
+

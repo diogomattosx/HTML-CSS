@@ -1,0 +1,31 @@
+.um {
+
+    color: white;
+    background-color: rgb(0, 0, 139);
+}
+
+.dois{
+
+    color: #ffffff;
+    background-color: #00008b;
+
+}
+.tres{
+
+    color: rgb(255,255,255);
+    background-color:rgb(0,0,139);
+}
+
+.quatro{
+
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(240, 100%, 27%);
+
+
+}
+
+.transparencia-fundo{
+
+    color: #ffffff;
+    background-color: rgba(0, 0, 139, 0.5);
+}

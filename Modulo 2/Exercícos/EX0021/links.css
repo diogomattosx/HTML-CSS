@@ -1,0 +1,52 @@
+body{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+
+    text-decoration: none;
+
+}
+
+.repositorio:hover{
+
+    text-decoration: underline;
+    color: rgb(16, 20, 68);
+}
+
+.youtube:hover{
+
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
+
+
+}
+
+.curso:hover{
+    
+    text-decoration: underline;
+    color: rgb(29, 15, 228);
+
+}
+
+a:visited{
+
+    color: rgb(158, 125, 196);
+}
+
+a:active {
+
+    color: rgb(229, 255, 82);
+}
+
+a::after{
+
+    content:' ♞' ;
+    
+}
+
+a::before{
+
+    content: '♞';
+}
